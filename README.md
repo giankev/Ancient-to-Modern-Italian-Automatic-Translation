@@ -30,3 +30,5 @@ the dataset annotated with our translations
 the dataset related to the Divine Comedy
 
 In the human_score folder, you'll find our manual evaluation, containing the human-assigned scores.
+
+Each folder also contains the notebooks related to the specific task of that folder.
