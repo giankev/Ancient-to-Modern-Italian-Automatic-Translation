@@ -19,7 +19,7 @@ One with a maximum score of 5 points
 
 Another with a maximum of 3 points, prioritizing naturalness of the translation output.
 
-## Folders structures
+## Folder structure
 
 Inside the dataset folder, there are three CSV files:
 
