@@ -1,0 +1,5 @@
+model,llm judge,cohen_kappa,spearman_correlation
+gemma2b_it_context_learning,gemini-2.0-flash-lite,"0,0033","0,2463"
+gemma2b_it_context_learning,prometheus,"-0,047","0,0406"
+opusMT,gemini-2.0-flash-lite,"0,0427","0,3939"
+opusMT,prometheus,"0,0985","0,079"
