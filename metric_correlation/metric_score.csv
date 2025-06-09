@@ -3,5 +3,5 @@ gemma2b_it_context_learning;gemini-2.0-flash-lite;0,0033;0,2463
 gemma2b_it_context_learning;prometheus;-0,047;0,0406
 opusMT;gemini-2.0-flash-lite;0,0427;0,3939
 opusMT;prometheus;0,0985;0,079
-minerva350M_finetuned;gemini-2.0-flash-lite;0,0;0,0
-minerva350M_finetuned;prometheus;0,0;0,0
+minerva350M_finetuned;gemini-2.0-flash-lite;-0,0356;-0,0459
+minerva350M_finetuned;prometheus;0,0148;0,1026
